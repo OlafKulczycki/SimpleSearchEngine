@@ -1,0 +1,34 @@
+type: code
+custom_name: Application
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    interface PrinterInterface {
+        fun printSomething() = print("something")
+        fun printSomethingElse() = print("something else")
+    }
+    // Do not change the code above.
+
+    interface NewLinePrinterInterface {
+        // Change only the code here.
+
+        fun printSomething() = println("new line something")
+        fun printSomethingElse() = println("new line something else")
+    }
+
+    // Do not change the code below.
+    class MultiPrinterClass : PrinterInterface, NewLinePrinterInterface {
+        override fun printSomething() = print("classy something")
+
+        override fun printSomethingElse() {
+            super.printSomethingElse()
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/22099#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 24 Nov 2022 14:18:05 UTC
+record: -1

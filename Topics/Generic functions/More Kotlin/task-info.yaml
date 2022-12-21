@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // implement your function here
+    fun countItem()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16056#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Thu, 24 Nov 2022 11:51:18 UTC
+record: -1

@@ -1,0 +1,38 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    interface Weight {
+        fun getWeight(): Int
+        fun affectedByGravity(): Boolean
+    }
+
+    interface Form {
+        fun getVolume(): Int
+    }
+
+    class HeavyBrick : Weight, Form {
+        override fun getWeight(): Int = 50
+        override fun affectedByGravity(): Boolean = true
+        override fun getVolume(): Int = 20
+    }
+
+    class HeavyBrickComposition : Weight by Heavy, Form by Brick
+
+    // Do not change the code above.
+
+    object // ?
+
+    object // ?
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/22101#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    main.kt:20:1: error: object 'Heavy' is not abstract and does not implement abstract member public abstract fun affectedByGravity(): Boolean defined in Weight
+    object Heavy: Weight {override fun getWeight(): Int {return 50}}
+    ^
+  time: Thu, 24 Nov 2022 13:58:19 UTC
+record: -1

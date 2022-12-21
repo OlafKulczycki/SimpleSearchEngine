@@ -1,0 +1,25 @@
+type: code
+custom_name: 'Multiple inheritance: interface details for a given class'
+files:
+- name: src/Main.kt
+  visible: true
+  text: "// Do not change the code below.  \n\ninterface Listed {\n    val index:\
+    \ String\n}\n\ndata class Element(\n        override val column: Int,\n      \
+    \  override val row: Int,\n        var value: Int\n) : Tabulated\n\n// Do not\
+    \ change the code above.  \n\ninterface Tabulated : Listed {\n    // Your Code\
+    \ Here  \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20225#comment
+status: Failed
+feedback:
+  message: "Failed. Runtime error\n\nError:\nException in thread \"main\" kotlin.NotImplementedError:\
+    \ An operation is not implemented: Not yet implemented\n\tat Tabulated$DefaultImpls.getIndex(main.kt:22)\n\
+    \tat Element.getIndex(main.kt:10)\n\tat MainKt.testTabulatedInterfaceEquality(main.kt:54)\n\
+    \tat MainKt.interfaceInheritanceTaskOne(main.kt:39)\n\tat MainKt.main(main.kt:65)\n\
+    \tat MainKt.main(main.kt)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native\
+    \ Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
+    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
+    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:70)\n\
+    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:188)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:198)\n"
+  time: Thu, 24 Nov 2022 14:36:15 UTC
+record: -1

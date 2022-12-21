@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Filtering elements in collection/A long time ago in a galaxy far, far away" />
+            <option value="$PROJECT_DIR$/Topics/Filtering elements in collection/The secret is in the length" />
+            <option value="$PROJECT_DIR$/Topics/Filtering elements in collection/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Counting" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Down to" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Is it here" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Step" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Sum of numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and iterables/Iterate over true facts" />
+            <option value="$PROJECT_DIR$/Topics/For loop and iterables/Iterator for list of personal data" />
+            <option value="$PROJECT_DIR$/Topics/For loop and iterables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generic functions/More Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Generic functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generic functions/Understanding generics" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collections/Harry and the Spell Power" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collections/The result of your scores" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collections/The secret is inside the spell" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Derived class creation" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance and constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interface composition/Application" />
+            <option value="$PROJECT_DIR$/Topics/Interface composition/Application (1)" />
+            <option value="$PROJECT_DIR$/Topics/Interface composition/Application (2)" />
+            <option value="$PROJECT_DIR$/Topics/Interface composition/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/Interface composition/Comprehension (1)" />
+            <option value="$PROJECT_DIR$/Topics/Interface composition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interface inheritance/Choosing interfaces for a given class" />
+            <option value="$PROJECT_DIR$/Topics/Interface inheritance/Multiple inheritance  interface details for a given class" />
+            <option value="$PROJECT_DIR$/Topics/Interface inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterators/Buy sweets with an iterator" />
+            <option value="$PROJECT_DIR$/Topics/Iterators/Frequency word book" />
+            <option value="$PROJECT_DIR$/Topics/Iterators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Linear search/How many repetitions" />
+            <option value="$PROJECT_DIR$/Topics/Linear search/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Remove us" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Set/Combination" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Set/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Set/Element problem" />
+            <option value="$PROJECT_DIR$/Topics/Set/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Test predicates  checking elements in collection/A secret should always be a secret" />
+            <option value="$PROJECT_DIR$/Topics/Test predicates  checking elements in collection/Advantages of Predicate Test" />
+            <option value="$PROJECT_DIR$/Topics/Test predicates  checking elements in collection/Is it a palindrome list" />
+            <option value="$PROJECT_DIR$/Topics/Test predicates  checking elements in collection/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fourth root" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

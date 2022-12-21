@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-classes-java.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-classes-kotlin.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-test-results.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task-build-tmp.main" target="11" />
+      <module name="Simple_Search_Engine.Simple_Search_Engine-task.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Filtering_elements_in_collection-A_long_time_ago_in_a_galaxy_far,_far_away.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Filtering_elements_in_collection-The_secret_is_in_the_length.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Filtering_elements_in_collection-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Floating-point_types-Area_of_a_circle.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-For_loop_and_arrays-Counting.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-For_loop_and_arrays-Cyclically_shifting_elements.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-For_loop_and_arrays-Down_to.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-For_loop_and_arrays-Is_it_here.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-For_loop_and_arrays-Step.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-For_loop_and_arrays-Sum_of_numbers.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-For_loop_and_arrays-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-For_loop_and_iterables-Iterate_over_true_facts.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-For_loop_and_iterables-Iterator_for_list_of_personal_data.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-For_loop_and_iterables-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Generic_functions-More_Kotlin.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Generic_functions-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Generic_functions-Understanding_generics.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Grouping_collections-Harry_and_the_Spell_Power.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Grouping_collections-The_result_of_your_scores.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Grouping_collections-The_secret_is_inside_the_spell.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Grouping_collections-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Inheritance_and_constructors-Derived_class_creation.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Inheritance_and_constructors-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Interface_composition-Application.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Interface_composition-Application__1_.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Interface_composition-Application__2_.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Interface_composition-Comprehension.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Interface_composition-Comprehension__1_.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Interface_composition-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Interface_inheritance-Choosing_interfaces_for_a_given_class.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Interface_inheritance-Multiple_inheritance__interface_details_for_a_given_class.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Interface_inheritance-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Iterators-Buy_sweets_with_an_iterator.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Iterators-Frequency_word_book.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Iterators-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Linear_search-How_many_repetitions.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Linear_search-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Mutable_List-Remove_us.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Mutable_List-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Mutable_Set-Combination.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Mutable_Set-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Set-Element_problem.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Set-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Test_predicates__checking_elements_in_collection-A_secret_should_always_be_a_secret.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Test_predicates__checking_elements_in_collection-Advantages_of_Predicate_Test.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Test_predicates__checking_elements_in_collection-Is_it_a_palindrome_list.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-Test_predicates__checking_elements_in_collection-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-The_Math_library-Fourth_root.main" target="11" />
+      <module name="Simple_Search_Engine.Topics-The_Math_library-Theory.main" target="11" />
+      <module name="Simple_Search_Engine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "data class Spell(val name: String, val power: Int)\n\nfun main() {\n    val\
+    \ input = readln().split(\" \")\n    val spells = input.map { Spell(it.split(\"\
+    -\")[0], it.split(\"-\")[1].toInt()) }\n\n    // write your code here\n    val\
+    \ res = \n\n    println(res)\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23356#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 2. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    expetum-50 patronus-20 axio-50 lithigum-20 madriketom-70
+    Correct output:
+    {50=[Spell(name=expetum, power=50), Spell(name=axio, power=50)], 20=[Spell(name=patronus, power=20), Spell(name=lithigum, power=20)], 70=[Spell(name=madriketom, power=70)]}
+
+    Your code output:
+    {Spell(name=expetum, power=50)=1, Spell(name=patronus, power=20)=1, Spell(name=axio, power=50)=1, Spell(name=lithigum, power=20)=1, Spell(name=madriketom, power=70)=1}
+  time: Wed, 23 Nov 2022 14:10:56 UTC
+record: -1
